@@ -1,0 +1,4 @@
+- 👋 Oi, sou o @BrunoSR31
+- 👀 Eu me interesso por tecnologia.
+- 🌱 Atualmente estou estudando desenvolvimento web.
+- 📫 Meu email é bruno.s_r@hotmail.com
